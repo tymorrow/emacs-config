@@ -7,7 +7,7 @@
   '(auctex coffee-mode elixir-mode elm-mode flymake-coffee 
 	   go-mode haskell-mode julia-mode less-css-mode markdown-mode rust-mode
 	   sass-mode scss-mode yaml-mode csharp-mode
-	   git-commit-mode git-rebase-mode gitconfig-mode gitignore-mode
+	   gitconfig-mode gitignore-mode
 	   js2-mode num3-mode typescript-mode yaml-mode
 	   )
   "A list of packages to ensure are installed at launch.")
